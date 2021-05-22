@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951868577029",
+    "firebase_url": "https://todo-example-1a44a-default-rtdb.firebaseio.com",
+    "project_id": "todo-example-1a44a",
+    "storage_bucket": "todo-example-1a44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951868577029:android:0028fd4c6025f85c2f136c",
+        "android_client_info": {
+          "package_name": "com.demo.morphosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951868577029-vovgvfbh8sjpakne7b9cb7fk55tv7715.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATT8qwG2Of_NAViYJeFWzDH2w2v_uEQsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951868577029-vovgvfbh8sjpakne7b9cb7fk55tv7715.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951868577029-mjn0ejbu8937ioiric9uloask01b734k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.demo.morphosis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
