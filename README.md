@@ -29,6 +29,7 @@ This section/screen you will need to demonstrate your skills related to network 
 
 2. Fetch the data from open apis for testing such as :  
    Eg: https://any-api.com/
+   
        https://rapidapi.com
 
 
