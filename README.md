@@ -12,47 +12,33 @@ Goal of the assignment is to:
 # Assignment Task:
 
 Create a Flutter project that demonstrates server-client communication, navigation flow and a certain form of State Management.
-
 Install the Flutter environment on your computer, along with a visual code editor (preferably VS Code) and run this template application. 
 
-The app contains 3 bottom navigations tabs:
 
-1. Home
-2. All Tasks
-3. Completed Tasks
+The app contains 2 sections of tasks as follows:
 
 # Home:
 
 This section/screen you will need to demonstrate your skills related to network calls and local storage. 
-
 1. Implement setup for network calls and local storage. You are free to use packages of your choice for both. Preferred: Dio, Chopper and Hive for local db.
-
 2. Fetch the data from open apis for testing such as :  
    
        https://any-api.com/
        https://rapidapi.com
    
 
-
 3. Save the response to local storage of your choice and update the ui according using state management.
-
 4. In the page, a search bar is present at the top. It should be functional by filtering your locally saved data. 
 
 
 # All Tasks and Complete Tasks
 
 This section/screen you will need to demonstrate your skills related to state management.
-
 Its a simple todo app where you will need to fetch data from firebase firestore and update the ui according to there completed status.
-
 The user should be able to complete, read, update and delete the tasks i.e CRUD operations. 
+The data should be update according in firebase firestore as well as reflect in the ui according as soon as one of the operations is done. Try to notify the user by showing some sort of message based on there operations.
 
-The data should be update according in firebase firestore as well as reflect in the ui according as soon as one of the operations is done. Try to notify the user by showing some sort of message that their operation was successful.
-
-The ui should be updated based on the status completed for tasks. 
-
-This state should updates the UI. Therefore you should be able to complete a task on the 'Tasks' page and it appears on the 'Completed Tasks' page
-
+The ui should be updated accordingly based on the status completed for tasks. This state should updates the UI. Therefore you should be able to complete a task on the 'Tasks' page and it appears on the 'Completed Tasks' page
 
 # Test Cases:
 
@@ -62,6 +48,5 @@ Try to demonstate at least one for each of the following:
 2. Widget Test
 
 Add any additional functionality / cleanup you think would improve the app (bonus points)
-
 
 Thank you.
