@@ -50,6 +50,9 @@ Try to demonstate at least one for each of the following:
 Add any additional functionality / cleanup you think would improve the app (bonus points)
 
 
+# After Completion:
+Upload the code on your github and send us a link :
+
 # Note:
 Try to implement extensions where every you think it can be done.
 Basic ui should work for showing informations. Dom't waste your much time on UI.
