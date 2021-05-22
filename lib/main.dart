@@ -31,6 +31,8 @@ class _FirebaseAppState extends State<FirebaseApp> {
     // Wait for Firebase to initialize
     await FirebaseManager.shared.initialise();
 
+    debugPrint("firebase initialized");
+
     // Pass all uncaught errors to Crashlytics.
     Function originalOnError = FlutterError.onError;
     FlutterError.onError = (FlutterErrorDetails errorDetails) async {
