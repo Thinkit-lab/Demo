@@ -28,7 +28,7 @@ This section/screen you will need to demonstrate your skills related to network 
 1. Implement setup for network calls and local storage. You are free to use packages of your choice for both. Preferred: Dio, Chopper and Hive for local db.
 
 2. Fetch the data from open apis for testing such as :  
-   Eg: 
+   
        https://any-api.com/
        https://rapidapi.com
    
