@@ -1,16 +1,65 @@
-# morphosis_flutter_demo
+# Assignment for Flutter Developer
 
-A new Flutter project.
+Goal of the assignment is to:
 
-## Getting Started
+ -> Show the capability of adjusting to the technical environment
+ -> Demonstrate the will to develop and test high quality features/functionalities
+ -> Test the candidate on clean-coding field
+ -> Test the candidate on project scaling field
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Assignment Task:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Create a Flutter project that demonstrates server-client communication, navigation flow and a certain form of State Management.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Install the Flutter environment on your computer, along with a visual code editor (preferably VS Code) and run this template application. 
+
+The app contains 3 bottom navigations tabs:
+
+1. Home
+2. All Tasks
+3. Completed Tasks
+
+# Home:
+
+This section/screen you will need to demonstrate your skills related to network calls and local storage. 
+
+1. Implement setup for network calls and local storage. You are free to use packages of your choice for both. Preferred: Dio, Chopper and Hive for local db.
+
+2. Fetch the data from open apis for testing such as :  
+   Eg: https://any-api.com/
+       https://rapidapi.com
+
+
+3. Save the response to local storage of your choice and update the ui according using state management.
+
+4. In the page, a search bar is present at the top. It should be functional by filtering your locally saved data. 
+
+
+# All Tasks and Complete Tasks
+
+This section/screen you will need to demonstrate your skills related to state management.
+
+Its a simple todo app where you will need to fetch data from firebase firestore and update the ui according to there completed status.
+
+The user should be able to complete, read, update and delete the tasks i.e CRUD operations. 
+
+The data should be update according in firebase firestore as well as reflect in the ui according as soon as one of the operations is done. Try to notify the user by showing some sort of message that their operation was successful.
+
+The ui should be updated based on the status completed for tasks. 
+
+This state should updates the UI. Therefore you should be able to complete a task on the 'Tasks' page and it appears on the 'Completed Tasks' page
+
+
+# Test Cases:
+
+Try to demonstate at least one for each of the following:
+
+1. Unit Test
+2. Widget Test
+
+
+Add any additional functionality / cleanup you think would improve the app (bonus points)
+
+
+Thank you.
