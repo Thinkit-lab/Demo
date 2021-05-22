@@ -57,5 +57,6 @@ Upload the code on your github and send us a link :
 # Note:
 Try to implement extensions where every you think it can be done.
 Basic ui should work for showing informations. Dom't waste your much time on UI.
+Error handling should be implemented properly. 
 
 Thank you.
