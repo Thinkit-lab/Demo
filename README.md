@@ -1,4 +1,4 @@
-# Assignment for Flutter Developer
+# Assignment for Flutter Developers
 
 Goal of the assignment is to:
 
