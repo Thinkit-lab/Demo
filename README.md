@@ -4,6 +4,7 @@ Goal of the assignment is to:
 
  -> Show the capability of adjusting to the technical environment
  -> Demonstrate the will to develop and test high quality features/functionalities
+ -> Test the candidate knowledge on network calls, local database and state management.
  -> Test the candidate on clean-coding field
  -> Test the candidate on project scaling field
 
@@ -57,7 +58,6 @@ Try to demonstate at least one for each of the following:
 
 1. Unit Test
 2. Widget Test
-
 
 Add any additional functionality / cleanup you think would improve the app (bonus points)
 
