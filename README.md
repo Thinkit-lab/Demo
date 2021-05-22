@@ -55,8 +55,8 @@ Add any additional functionality / cleanup you think would improve the app (bonu
 Upload the code on your github and send us a link :
 
 # Note:
-1.Try to implement extensions where every you think it can be done.
-2.Basic ui should work for showing informations. Dom't waste your much time on UI.
-3.Error handling should be implemented properly. 
+1. Try to implement extensions where every you think it can be done.
+2. Basic ui should work for showing informations. Dom't waste your much time on UI.
+3. Error handling should be implemented properly. 
 
 Thank you.
