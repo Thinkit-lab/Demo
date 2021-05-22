@@ -26,6 +26,7 @@ This section/screen you will need to demonstrate your skills related to network 
        https://any-api.com/
        https://rapidapi.com
    
+You are free to use any open source api of your choice. 
 
 3. Save the response to local storage of your choice and update the ui according using state management.
 4. In the page, a search bar is present at the top. It should be functional by filtering your locally saved data. 
