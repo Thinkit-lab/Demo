@@ -53,7 +53,10 @@ class _HomePageState extends State<HomePage> {
               controller: _searchTextField,
             ),
             Spacer(),
-            Text("Do any thing you like"),
+            Text(
+              "Call any api you like from open apis and show them in a list. ",
+              textAlign: TextAlign.center,
+            ),
             Spacer(),
           ],
         ),
